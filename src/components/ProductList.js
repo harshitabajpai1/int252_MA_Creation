@@ -4,7 +4,7 @@ import ProductItem from './ProductItem';
 const products = [
   { id: 1, name: 'Product 1', price: '$20', image: 'path-to-image' },
   { id: 2, name: 'Product 2', price: '$30', image: 'path-to-image' },
-  // Add more products
+  
 ];
 
 function ProductList() {
